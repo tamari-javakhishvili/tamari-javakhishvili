@@ -30,6 +30,6 @@ I believe **Machine Learning** should support **decisions, not just dashboards**
 ### 📫 Connect
 - **LinkedIn:** [linkedin.com/in/tamari-javakhishvili](https://www.linkedin.com/in/tamari-javakhishvili/)
 - **Tableau:** https://public.tableau.com/app/profile/tamar.javakhishvili/vizzes
-- **Email:** tjavakhishvili0909@gmail.com
+- **Email:** t_javakhishvili@yahoo.com
 
 
