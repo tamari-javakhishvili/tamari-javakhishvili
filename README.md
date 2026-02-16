@@ -14,7 +14,7 @@
 
 ---
 
-I am a revenue-focused data analyst transitioning from 15+ years in sales, banking, and customer operations into hands-on analytics and predictive modeling.
+I combine 15+ years experience in sales, banking, and customer operations with hands-on analytics and machine learning to diagnose revenue risk and customer churn.
 
 After two decades of driving commercial performance in organizations like **Bank of Georgia** and **Extra.ge**, I now apply SQL, Python, and Machine Learning to systematically analyze revenue shifts, customer behavior, and financial risk.
 
@@ -79,7 +79,7 @@ I believe **Machine Learning should drive decisions, not just dashboards.** Anal
 
 <div align="center">
 
-### 💼 Open to Data Analyst & ML Engineer Opportunities
+### 💼 Open to Revenue Analytics & Retention Strategy Projects
 
 *Seeking roles where I can bridge business strategy and predictive analytics*
 
